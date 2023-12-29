@@ -7,3 +7,4 @@ Quy tắc quản lý thư mục
 - Sử dụng Pascal case
   - example `Hinh_Anh`
 - Thêm ngày tháng vào cuối tên
+- Xóa bỏ các file nén không cần thiết
